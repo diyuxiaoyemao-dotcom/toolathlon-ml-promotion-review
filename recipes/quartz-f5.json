@@ -1,0 +1,6 @@
+{
+  "approved_stage": "reproducibility_review",
+  "base_family": "quartz",
+  "config_digest": "sha256:cfg-quartz-f5-v5",
+  "recipe_id": "quartz-f5"
+}
