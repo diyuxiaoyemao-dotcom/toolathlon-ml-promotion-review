@@ -1,0 +1,47 @@
+{
+  "recipes": [
+    {
+      "base_family": "atlas",
+      "code_commit": "1385ff5fdae25d48ae506c0d063b6d68b959bf41",
+      "config_digest": "sha256:cfg-raven-a3-v5",
+      "recipe_id": "raven-a3",
+      "recipe_path": "recipes/raven-a3.json"
+    },
+    {
+      "base_family": "atlas",
+      "code_commit": "ae776c3040852b753ee9b3d795bdeee17fc4baec",
+      "config_digest": "sha256:cfg-raven-b2-v2",
+      "recipe_id": "raven-b2",
+      "recipe_path": "recipes/raven-b2.json"
+    },
+    {
+      "base_family": "cedar",
+      "code_commit": "05d1a43b0b70399e024944ac30f7df77ed209304",
+      "config_digest": "sha256:cfg-cedar-c4-v4",
+      "recipe_id": "cedar-c4",
+      "recipe_path": "recipes/cedar-c4.json"
+    },
+    {
+      "base_family": "lumen",
+      "code_commit": "35a0878ee76bd142bb63f438017e6813aeb5de3a",
+      "config_digest": "sha256:cfg-lumen-e7-v7",
+      "recipe_id": "lumen-e7",
+      "recipe_path": "recipes/lumen-e7.json"
+    },
+    {
+      "base_family": "ember",
+      "code_commit": "7547dae4c2ff9f8525b6144a2b8c9617f07e4d33",
+      "config_digest": "sha256:cfg-ember-d1-v1",
+      "recipe_id": "ember-d1",
+      "recipe_path": "recipes/ember-d1.json"
+    },
+    {
+      "base_family": "quartz",
+      "code_commit": "ca518d5274037467883b72136acc005ffe47abf2",
+      "config_digest": "sha256:cfg-quartz-f5-v5",
+      "recipe_id": "quartz-f5",
+      "recipe_path": "recipes/quartz-f5.json"
+    }
+  ],
+  "registry_version": "2026-07-28"
+}
