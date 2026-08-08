@@ -1,0 +1,6 @@
+{
+  "approved_stage": "reproducibility_review",
+  "base_family": "lumen",
+  "config_digest": "sha256:cfg-lumen-e7-v7",
+  "recipe_id": "lumen-e7"
+}
