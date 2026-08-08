@@ -1,0 +1,6 @@
+{
+  "approved_stage": "reproducibility_review",
+  "base_family": "ember",
+  "config_digest": "sha256:cfg-ember-d1-v1",
+  "recipe_id": "ember-d1"
+}
