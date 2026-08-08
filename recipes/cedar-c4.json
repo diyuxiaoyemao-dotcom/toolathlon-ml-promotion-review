@@ -1,0 +1,6 @@
+{
+  "approved_stage": "reproducibility_review",
+  "base_family": "cedar",
+  "config_digest": "sha256:cfg-cedar-c4-v4",
+  "recipe_id": "cedar-c4"
+}
