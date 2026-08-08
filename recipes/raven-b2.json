@@ -1,0 +1,6 @@
+{
+  "approved_stage": "reproducibility_review",
+  "base_family": "atlas",
+  "config_digest": "sha256:cfg-raven-b2-v2",
+  "recipe_id": "raven-b2"
+}
